@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Sitio Cursos",
+        "poster": "site_courses",
+        "link": "https://p-react-courses.netlify.app/",
+        "repo": "https://github.com/takaNoMeImer/site-courses-react",
+        "skill": ["React", "Typescript"],
+        "autor": "Imer Gonzalez"
+    },{
+	"name": "Google Clon",
+        "poster": "google_clon",
+        "link": "https://p-google-clon.netlify.app/",
+        "repo": "https://github.com/takaNoMeImer/google-clon",
+        "skill": ["HTML5", "CSS3"],
+        "autor": "Imer Gonzalez"
+    }
+]
