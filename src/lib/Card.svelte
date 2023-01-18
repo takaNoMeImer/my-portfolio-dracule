@@ -16,7 +16,7 @@
             <div class="media-left">
                 <figure class="image is-48x48">
                     <!-- svelte-ignore a11y-img-redundant-alt -->
-                    <img src="/Perfil1.jpg" alt="Placeholder image" />
+                    <img src="/programmer.png" alt="Placeholder image" />
                 </figure>
             </div>
             <div class="media-content">

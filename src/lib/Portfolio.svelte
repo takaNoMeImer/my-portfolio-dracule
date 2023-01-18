@@ -16,6 +16,7 @@
     .portfolio {
         width: 80%;
         margin: 0 auto;
+        margin-bottom: 4rem;
     }
     .portfolio-title {
         text-align: center;

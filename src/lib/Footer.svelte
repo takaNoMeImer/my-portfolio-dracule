@@ -1,8 +1,10 @@
+        <!-- svelte-ignore security-anchor-rel-noreferrer -->
+
 <footer>
     <div class="footer-icons">
-        <box-icon type='logo' size="40px" color="white" name='linkedin-square'></box-icon>
-        <box-icon type='logo' size="40px" color="white" name='github'></box-icon>
-        <box-icon type='logo' size="40px" color="white" name='instagram'></box-icon>
+        <a href="https://www.linkedin.com/in/imer-gonzalez-21ab66239/" target="_blank"><box-icon type='logo' size="40px" color="white" name='linkedin-square'></box-icon></a>
+        <a href="https://github.com/takaNoMeImer" target="_blank"><box-icon type='logo' size="40px" color="white" name='github'></box-icon></a>
+        <a href="https://www.instagram.com/bartdimhz/" target="_blank"><box-icon type='logo' size="40px" color="white" name='instagram'></box-icon></a>
     </div>
     <div class="footer-text">
         <p>Derechos reservados</p>
