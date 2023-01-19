@@ -20,5 +20,12 @@
         "repo": "https://github.com/takaNoMeImer/user-api",
         "skill": ["Express", "MongoDB"],
         "autor": "Imer Gonzalez"
-    }
+    },{
+        "name": "Password Generator",
+            "poster": "generator",
+            "link": "https://p-password-generator.netlify.app/",
+            "repo": "https://github.com/takaNoMeImer/password-generator",
+            "skill": ["React", "Typescript"],
+            "autor": "Imer Gonzalez"
+        }
 ]
