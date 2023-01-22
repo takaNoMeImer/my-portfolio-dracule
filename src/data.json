@@ -4,28 +4,54 @@
         "poster": "site_courses",
         "link": "https://p-react-courses.netlify.app/",
         "repo": "https://github.com/takaNoMeImer/site-courses-react",
-        "skill": ["React", "Typescript"],
+        "skill": [
+            "React",
+            "Typescript"
+        ],
         "autor": "Imer Gonzalez"
-    },{
-	"name": "Google Clon",
+    },
+    {
+        "name": "Google Clon",
         "poster": "google_clon",
         "link": "https://p-google-clon.netlify.app/",
         "repo": "https://github.com/takaNoMeImer/google-clon",
-        "skill": ["HTML5", "CSS3"],
+        "skill": [
+            "HTML5",
+            "CSS3"
+        ],
         "autor": "Imer Gonzalez"
-    },{
-	"name": "User API",
+    },
+    {
+        "name": "User API",
         "poster": "user_api",
         "link": "",
         "repo": "https://github.com/takaNoMeImer/user-api",
-        "skill": ["Express", "MongoDB"],
+        "skill": [
+            "Express",
+            "MongoDB"
+        ],
         "autor": "Imer Gonzalez"
-    },{
+    },
+    {
         "name": "Password Generator",
-            "poster": "generator",
-            "link": "https://p-password-generator.netlify.app/",
-            "repo": "https://github.com/takaNoMeImer/password-generator",
-            "skill": ["React", "Typescript"],
-            "autor": "Imer Gonzalez"
-        }
+        "poster": "generator",
+        "link": "https://p-password-generator.netlify.app/",
+        "repo": "https://github.com/takaNoMeImer/password-generator",
+        "skill": [
+            "React",
+            "Typescript"
+        ],
+        "autor": "Imer Gonzalez"
+    },
+    {
+        "name": "Notification Panel",
+        "poster": "notification",
+        "link": "https://p-notification-panel.netlify.app/",
+        "repo": "https://github.com/takaNoMeImer/notification-panel",
+        "skill": [
+            "React",
+            "Typescript"
+        ],
+        "autor": "Imer Gonzalez"
+    }
 ]
