@@ -44,7 +44,7 @@
         "poster": "graphql_api",
         "link": "",
         "repo": "https://github.com/takaNoMeImer/simple-graphql-api",
-        "skill": ["GraphQL", "Apollo"],
+        "skill": ["GraphQL", "Apollo", "MongoDB"],
         "author": "Imer Gonzalez"
     }
 ]
