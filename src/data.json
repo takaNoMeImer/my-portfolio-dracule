@@ -46,5 +46,13 @@
         "repo": "https://github.com/takaNoMeImer/simple-graphql-api",
         "skill": ["GraphQL", "Apollo", "MongoDB"],
         "author": "Imer Gonzalez"
+    },
+    {
+        "name": "Animation Hero",
+        "poster": "animation_hero",
+        "link": "https://p-animation-hero.netlify.app/",
+        "repo": "https://github.com/takaNoMeImer/animation-hero",
+        "skill": ["HTML5", "CSS3"],
+        "author": "Imer Gonzalez"  
     }
 ]
