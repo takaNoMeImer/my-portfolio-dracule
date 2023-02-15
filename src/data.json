@@ -5,7 +5,8 @@
         "link": "https://p-react-courses.netlify.app/",
         "repo": "https://github.com/takaNoMeImer/site-courses-react",
         "skill": ["React", "Typescript"],
-        "autor": "Imer Gonzalez"
+        "autor": "Imer Gonzalez",
+        "description": "Sitio de cursos online con React"
     },
     {
         "name": "Google Clon",
@@ -13,7 +14,8 @@
         "link": "https://p-google-clon.netlify.app/",
         "repo": "https://github.com/takaNoMeImer/google-clon",
         "skill": ["HTML5", "CSS3"],
-        "autor": "Imer Gonzalez"
+        "autor": "Imer Gonzalez",
+        "description": "Clon de la pagina pricipal de Google"
     },
     {
         "name": "Password Generator",
@@ -21,7 +23,8 @@
         "link": "https://p-password-generator.netlify.app/",
         "repo": "https://github.com/takaNoMeImer/password-generator",
         "skill": ["React", "Typescript"],
-        "autor": "Imer Gonzalez"
+        "autor": "Imer Gonzalez",
+        "description": "Generador de contraseñas"
     },
     {
         "name": "Notification Panel",
@@ -29,7 +32,8 @@
         "link": "https://p-notification-panel.netlify.app/",
         "repo": "https://github.com/takaNoMeImer/notification-panel",
         "skill": ["React", "Typescript"],
-        "autor": "Imer Gonzalez"
+        "autor": "Imer Gonzalez",
+        "description": "Ejemplo de un panel de notificaciones"
     },
     {
         "name": "User API",
@@ -37,7 +41,8 @@
         "link": "",
         "repo": "https://github.com/takaNoMeImer/user-api",
         "skill": ["Express", "MongoDB"],
-        "autor": "Imer Gonzalez"
+        "autor": "Imer Gonzalez",
+        "description": "API para la creacion de usuarios"
     },
     {
         "name": "GraphQL API",
@@ -45,7 +50,8 @@
         "link": "",
         "repo": "https://github.com/takaNoMeImer/simple-graphql-api",
         "skill": ["GraphQL", "Apollo", "MongoDB"],
-        "autor": "Imer Gonzalez"
+        "autor": "Imer Gonzalez",
+        "description": "API GraphQl para la creacion de notas"
     },
     {
         "name": "Animation Hero",
@@ -53,14 +59,16 @@
         "link": "https://p-animation-hero.netlify.app/",
         "repo": "https://github.com/takaNoMeImer/animation-hero",
         "skill": ["HTML5", "CSS3"],
-        "autor": "Imer Gonzalez"  
+        "autor": "Imer Gonzalez",
+        "description": "Ejemplo de animacion en CSS"
     },
     {
         "name": "Rick and Morty",
         "poster": "rick_and_morty",
         "link": "https://p-rick-and-morty.netlify.app/",
         "repo": "https://github.com/takaNoMeImer/rick-and-morty",
-        "skill": ["HTML5", "CSS3"],
-        "autor": "Imer Gonzalez" 
+        "skill": ["React", "API R&M"],
+        "autor": "Imer Gonzalez",
+        "description": "Rick and Morty APP"
     }
 ]

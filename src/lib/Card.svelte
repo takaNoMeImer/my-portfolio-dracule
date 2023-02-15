@@ -31,6 +31,10 @@
                     <Skill name={skill} />
                 {/each}
             </div>
+
+            <div class="content__description">
+                <p>{item.description}</p>
+            </div>
             <br />
             <div class="actions">
                 <a
@@ -59,6 +63,14 @@
         display: flex;
         gap: 10px;
         flex-wrap: wrap;
+    }
+    .content__description {
+        margin-top: 1rem;
+        background-color: rgb(211, 225, 255);
+        border-radius: 5px;
+        padding: 5px;
+        text-align: center;
+        font-weight: 600;
     }
     .actions {
         display: flex;
