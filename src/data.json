@@ -9,6 +9,15 @@
         "description": "Sitio de cursos online con React"
     },
     {
+        "name": "Login Netflix",
+        "poster": "login_netflix",
+        "link": "https://p-login-netflix.app/",
+        "repo": "https://github.com/takaNoMeImer/login-netflix",
+        "skill": ["HTML5", "CSS3", "Javascript"],
+        "autor": "Imer Gonzalez",
+        "description": "Recreacion de Login de Netflix"
+    },
+    {
         "name": "Google Clon",
         "poster": "google_clon",
         "link": "https://p-google-clon.netlify.app/",
