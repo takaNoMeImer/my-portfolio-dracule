@@ -10,7 +10,7 @@
         <div class="body-right">
             <p class="p-title">Hola, soy Imer</p>
             <p class="p-message">
-                Soy un Junior Frontend/Backend Developer, me puedo desarrollar
+                Soy un Junior Full Stack Developer, me puedo desarrollar
                 en multiples tecnologias web tales como Frameworks SPA, Gestores
                 SQL y NoSQL, distintos lenguajes de programacion como Go, Java,
                 C#, Dart entre otros. Me considero una persona muy dedicada y
