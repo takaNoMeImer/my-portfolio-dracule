@@ -1,5 +1,14 @@
 [
-    {
+    
+{
+        "name": "Freelancer Site",
+        "poster": "freelancer_site",
+        "link": "https://p-freelancer-site.netlify.app/",
+        "repo": "https://github.com/takaNoMeImer/freelancer-site",
+        "skill": ["HTML5", "Tailwindcss"],
+        "autor": "Imer Gonzalez",
+        "description": "Sitio Freelancer"
+    },{
         "name": "Sitio Cursos",
         "poster": "site_courses",
         "link": "https://p-react-courses.netlify.app/",
