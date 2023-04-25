@@ -11,7 +11,7 @@
         <div class="right-card">
             <div class="card-text">
                 <p>Hola,</p>
-                Soy Imer. Full Stack Developer
+                Soy Antonio. Full Stack Developer
             </div>
 
             <div class="card-icons">
