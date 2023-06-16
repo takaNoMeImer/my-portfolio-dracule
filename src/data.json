@@ -66,7 +66,7 @@
         "name": "Auth Laravel API",
         "poster": "auth_api",
         "link": "",
-        "repo": "https://github.com/takaNoMeImer/user-api",
+        "repo": "https://github.com/takaNoMeImer/autenticacion-laravel",
         "skill": ["Laravel", "MySQL"],
         "autor": "Imer Gonzalez",
         "description": "API para la autenticacion de usuarios"
@@ -101,7 +101,7 @@
         "name": "Moon App",
         "poster": "moon_app",
         "link": "",
-        "repo": "https://github.com/takaNoMeImer/user-api",
+        "repo": "https://github.com/takaNoMeImer/moon_app_flutter",
         "skill": ["Flutter"],
         "autor": "Imer Gonzalez",
         "description": "Aplicacion en Flutter de Muestra"
