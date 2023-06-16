@@ -63,6 +63,15 @@
         "description": "API para la creacion de usuarios"
     },
     {
+        "name": "Auth Laravel API",
+        "poster": "auth_api",
+        "link": "",
+        "repo": "https://github.com/takaNoMeImer/user-api",
+        "skill": ["Laravel", "MySQL"],
+        "autor": "Imer Gonzalez",
+        "description": "API para la autenticacion de usuarios"
+    },
+    {
         "name": "GraphQL API",
         "poster": "graphql_api",
         "link": "",
@@ -88,5 +97,13 @@
         "skill": ["React", "API R&M"],
         "autor": "Imer Gonzalez",
         "description": "Rick and Morty APP"
+    },{
+        "name": "Moon App",
+        "poster": "moon_app",
+        "link": "",
+        "repo": "https://github.com/takaNoMeImer/user-api",
+        "skill": ["Flutter"],
+        "autor": "Imer Gonzalez",
+        "description": "Aplicacion en Flutter de Muestra"
     }
 ]
